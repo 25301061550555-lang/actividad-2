@@ -1,1 +1,7 @@
-# actividad-2
+Actividad 2
+git init
+git add .
+git commit -m "Primer commit"
+git branch -M main
+git remote add origin URL_DE_TU_REPOSITORIO
+git push -u origin main
