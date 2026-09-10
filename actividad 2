@@ -2,5 +2,5 @@ git init
 git add .
 git commit -m "Primer commit"
 git branch -M main
-git remote add origin URL_DE_TU_REPOSITORIO
+git remote add origin https://github.com/25301061550555-lang/actividad-2.git
 git push -u origin main
